@@ -1,0 +1,8 @@
+name: Suite
+configFailurePolicy: skip
+tests:
+  - name: Test
+  classes:
+    - SpiceJet.AppTest
+    - SpiceJet.SearchTest
+
